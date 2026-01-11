@@ -1,0 +1,6 @@
+C:\Users\VICTUS\OneDrive - uludag.edu.tr\سطح المكتب\insan kaynaklari\HR System\HRSystem.Entities\bin\Debug\HRSystem.Entities.dll
+C:\Users\VICTUS\OneDrive - uludag.edu.tr\سطح المكتب\insan kaynaklari\HR System\HRSystem.Entities\bin\Debug\HRSystem.Entities.pdb
+C:\Users\VICTUS\OneDrive - uludag.edu.tr\سطح المكتب\insan kaynaklari\HR System\HRSystem.Entities\obj\Debug\HRSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\VICTUS\OneDrive - uludag.edu.tr\سطح المكتب\insan kaynaklari\HR System\HRSystem.Entities\obj\Debug\HRSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive - uludag.edu.tr\سطح المكتب\insan kaynaklari\HR System\HRSystem.Entities\obj\Debug\HRSystem.Entities.dll
+C:\Users\VICTUS\OneDrive - uludag.edu.tr\سطح المكتب\insan kaynaklari\HR System\HRSystem.Entities\obj\Debug\HRSystem.Entities.pdb

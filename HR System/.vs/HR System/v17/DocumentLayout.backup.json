@@ -1,0 +1,790 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|c:\\users\\victus\\onedrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\hr system\\hrsystem.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\salaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\salaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\salaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\salaryreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\performancereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\performancereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\performancereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\performancereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\leavereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\leavereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\leavereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\leavereportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\leaverepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\leaveapprovalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\leaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\leaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\performanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\performanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\leaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\leaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\performanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\performanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\salaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\performancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\performancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\performanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\performanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\performance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\salaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8948BA-3A83-4BA5-8A75-096AC40ABEEE}|HRSystem.UI\\HRSystem.UI.csproj|solutionrelative:hrsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489869F7-20CF-4C3A-BB48-97634500CCFD}|HRSystem.Entities\\HRSystem.Entities.csproj|solutionrelative:hrsystem.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.bll\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0F29B4-604D-4A0C-92DF-2716A0991B73}|HRSystem.BLL\\HRSystem.BLL.csproj|solutionrelative:hrsystem.bll\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\hrsystem.dal\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9740C827-F798-4AA0-B5FA-4D81A823AF2D}|HRSystem.DAL\\HRSystem.DAL.csproj|solutionrelative:hrsystem.dal\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 464,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaryReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryReportForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\SalaryReportForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryReportForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\SalaryReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:40:53.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryReportForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\SalaryReportForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryReportForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\SalaryReportForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAMwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:59:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:23:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveReportForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LeaveReportForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveReportForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\LeaveReportForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAMwHwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:16:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\UserRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\UserRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAE8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:18:22.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformanceReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceReportForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\PerformanceReportForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceReportForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\PerformanceReportForm.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAMwIQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:16:02.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerformanceReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceReportForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\PerformanceReportForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceReportForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\PerformanceReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T13:47:59.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeaveReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveReportForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LeaveReportForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveReportForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\LeaveReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:15:42.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\EmployeeForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\EmployeeForm.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAUwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:57:41.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:52:40.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Employee.cs",
+              "RelativeToolTip": "HRSystem.Entities\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:02:43.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Department.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Department.cs",
+              "RelativeToolTip": "HRSystem.Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:03:43.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\BaseEntity.cs",
+              "RelativeToolTip": "HRSystem.Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:27:32.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\LeaveService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\LeaveService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\LeaveService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\LeaveService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAjwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T19:43:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveApprovalForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveApprovalForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LeaveApprovalForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveApprovalForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\LeaveApprovalForm.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T21:16:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaveRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\LeaveRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\LeaveRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\LeaveRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\LeaveRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwEoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T19:42:32.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveApprovalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveApprovalForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LeaveApprovalForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveApprovalForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\LeaveApprovalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T21:00:50.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Leave.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Leave.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\Leave.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Leave.cs",
+              "RelativeToolTip": "HRSystem.Entities\\Leave.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:04:51.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\EmployeeRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:18:27.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\MainForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\MainForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T22:07:34.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:57:34.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\IRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\IRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:10:42.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LoginForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:22:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\DepartmentForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\DepartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T19:34:10.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LeaveForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LeaveForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\LeaveForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T19:44:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\DepartmentForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\DepartmentForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\DepartmentForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T19:40:10.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PerformanceForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\PerformanceForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\PerformanceForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T17:40:55.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalaryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryForm.cs [Design]",
+              "RelativeToolTip": "HRSystem.UI\\SalaryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:04:42.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\DepartmentService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\DepartmentService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:12:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\DepartmentRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\DepartmentRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:10:59.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\EmployeeService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\EmployeeService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T20:25:20.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LeaveForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\LeaveForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\LeaveForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\LeaveForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:02:14.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PerformanceService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\PerformanceService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\PerformanceService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\PerformanceService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\PerformanceService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:40:17.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Performance.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Performance.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\Performance.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Performance.cs",
+              "RelativeToolTip": "HRSystem.Entities\\Performance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:09:42.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SalaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\SalaryRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\SalaryRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\SalaryRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\SalaryRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T21:41:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SalaryForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\SalaryForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\SalaryForm.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T21:48:14.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PerformanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\PerformanceRepository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\PerformanceRepository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\PerformanceRepository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\PerformanceRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:39:40.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PerformanceForm.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceForm.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\PerformanceForm.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\PerformanceForm.cs",
+              "RelativeToolTip": "HRSystem.UI\\PerformanceForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:22:54.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Salary.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\Salary.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\Salary.cs",
+              "RelativeToolTip": "HRSystem.Entities\\Salary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:08:03.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SalaryService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\SalaryService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\SalaryService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\SalaryService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\SalaryService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T21:43:30.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "HRSystem.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.UI\\Program.cs",
+              "RelativeToolTip": "HRSystem.UI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T20:22:07.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\DbConnection.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\DbConnection.cs",
+              "RelativeToolTip": "HRSystem.DAL\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:09:15.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\AuthService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\AuthService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\AuthService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:19:02.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\UserService.cs",
+              "RelativeToolTip": "HRSystem.BLL\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:23:02.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\User.cs",
+              "RelativeDocumentMoniker": "HRSystem.Entities\\User.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.Entities\\User.cs",
+              "RelativeToolTip": "HRSystem.Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:17:34.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\Session.cs",
+              "RelativeDocumentMoniker": "HRSystem.BLL\\Session.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.BLL\\Session.cs",
+              "RelativeToolTip": "HRSystem.BLL\\Session.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T20:05:25.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\Repository.cs",
+              "RelativeDocumentMoniker": "HRSystem.DAL\\Repository.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\OneDrive - uludag.edu.tr\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\insan kaynaklari\\HR System\\HRSystem.DAL\\Repository.cs",
+              "RelativeToolTip": "HRSystem.DAL\\Repository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:22:39.075Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
